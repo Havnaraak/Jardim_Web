@@ -1,0 +1,185 @@
+a:any-link{
+    text-decoration:underline;
+    color: red;
+    font-style: italic;
+}
+
+.summary{
+    max-height: auto;
+    max-height: auto;
+    border-radius: 10px 20px 30px 40px;
+    border-style:groove;
+    height: auto;
+    width: auto;
+    padding-left: 20px;
+    margin-right: 700px;
+    font-size: 22pt;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+body{
+    padding: 0;
+    font-size: 14px;
+    color: white;
+    background-image:url(Imagens/back3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: auto;
+    max-height: auto;
+}
+.preamble{
+   text-align: center;
+}
+.header h1{
+    margin-top: 0;
+    margin-bottom: -40px;
+    text-align: center;
+    font-size: 200pt;
+    float: left;
+    width: auto;
+    height: auto;
+    font-weight: 700;
+    color: yellowgreen;
+    text-shadow: 2px 2px 2px black;
+    background-size: cover;
+    font-family: cursive;
+}
+
+.header h2{
+    font-size: 30pt;
+    text-align: right;
+    margin-right: 200px;
+    margin-bottom: 80px;
+    text-shadow: 2px 2px 2px black;
+    color: yellowgreen;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+.preamble {
+    margin-top: 100px;
+    height: auto;
+    width: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 1150px;
+    padding-left: 100px;
+    font-size: 18pt;
+    background-image: url(Imagens/folha.jpg);
+    background-size: cover; 
+    border-radius: 10px 20px 30px 40px;
+    border-style:groove;
+    border-color: yellowgreen;
+    background-attachment: fixed;
+    color:white;
+    font-weight: 900;
+    text-shadow: black 1px 1px 1px;
+}
+
+
+.explanation{
+    padding-right: 500px;
+    padding-left: 500px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-stretch: expanded;
+    color: black;
+    height: auto;
+    width: auto;
+    margin-top: 60px;
+    font-size: 18pt;
+    background-image: url(Imagens/back4.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100%;
+    border-radius: 10px 20px 30px 40px;
+    border-style:double;
+    border-color: yellowgreen;
+
+}
+.participation{
+    scroll-padding-top: 100px;
+    padding-top: 50px;
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 1000px;
+    height: auto;
+    font-size: 20pt;
+    position: relative; 
+    border-radius: 10px 20px 30px 40px;
+    border-style:double;
+    border-color: yellowgreen;
+    background-image: url(Imagens/folha.jpg);
+    background-attachment: fixed;
+    color:white;
+    font-weight: 900;
+    text-shadow: black 1px 1px 1px;
+}
+.benefits{
+    margin-top: 20px;
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-top: 250px;
+    text-align: center;
+    color:black;
+    font-size: 30pt;
+    height: auto;
+    background-image: url(Imagens/back4.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    border-radius: 10px 20px 30px 40px;
+    border-style:double;
+    border-color: yellowgreen;
+}
+
+.requirements{
+    text-align: center;
+    height: auto;
+    color: white;
+    font-size: 18pt;
+    border-radius: 10px 20px 30px 40px;
+    border-style:double;
+    background-image: url(Imagens/madeira.jpg);
+    margin-top: 10px;
+    text-shadow: 2px 2px black;
+}
+
+.footer{
+    text-align: right;
+    color: rgba(0, 0, 0, 0.692);
+    position: relative;
+}
+
+.sidebar{
+    margin-top: 20px;
+    padding-left: 1000px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 20pt;
+    height: auto;
+    background-image: url(Imagens/centro.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px 20px 30px 40px;
+    border-style:double;
+    border-color: yellowgreen;
+}
+
+.footer{
+    border-color: yellowgreen;
+    border-style:double;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    font-size: 12pt;
+}
